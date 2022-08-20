@@ -23,4 +23,8 @@ printf("reverse of array :\t");
    {
        printf("%d\t",x[i]);
    }
+    for(i=0;i<len;i++)
+   {
+       printf("%d\t",x[i]);
+   }
 }
